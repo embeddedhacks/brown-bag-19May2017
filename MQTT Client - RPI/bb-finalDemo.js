@@ -1,5 +1,5 @@
 const mqtt = require('mqtt')  
-const client = mqtt.connect('mqtt://test.mosquitto.org.com')
+const client = mqtt.connect('mqtt://test.mosquitto.org')
 var gpio = require('rpi-gpio');
 
 gpio.setup(7, gpio.DIR_OUT, write); // HYD
