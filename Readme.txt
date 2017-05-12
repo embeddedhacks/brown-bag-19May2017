@@ -12,3 +12,6 @@ Date: 12/05/2017
 
 This demo is just a mqtt client for both "browser hosted on heroku" and "client for raspberry pi".
 
+Demo URL: http://brown-bag-demo.16mb.com/
+
+
